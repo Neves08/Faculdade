@@ -1,0 +1,21 @@
+h1{color: black; font-size: 50px; text-align: center;
+
+} 
+ body {background-color: aqua;
+ }
+ p{
+    font-size: 20px;
+    color: black; text-align: center;
+}     
+
+    .site {color: black; 
+           background-color: white;
+           padding: 15px;
+           border-radius: 9px;
+}
+
+
+.borda{ border-style: outset;
+        border-color: red;
+
+}
