@@ -1,0 +1,14 @@
+p {
+    border: 3px solid green;
+    display: inline-block;
+    font-size: 25px;
+    
+}
+
+.teste {
+    border: 3px solid green;
+    display: block;
+    text-align: center;
+}
+    
+
